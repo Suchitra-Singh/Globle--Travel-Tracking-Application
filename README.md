@@ -1,4 +1,4 @@
-# Globle--Travel-Tracking-Application
+# TripIt--Travel-Tracking-Application
 
 # Travel Tracker
 Travel Tracker is a robust and user-friendly web application designed to help users manage and track their travel plans. Built with a modern tech stack including PostgreSQL and Express.js, Travel Tracker allows users to organize their trips, create itineraries, and keep track of travel-related expenses.
