@@ -4,16 +4,16 @@
 Travel Tracker is a robust and user-friendly web application designed to help users manage and track their travel plans. Built with a modern tech stack including PostgreSQL and Express.js, Travel Tracker allows users to organize their trips, create itineraries, and keep track of travel-related expenses.
 
 # Features
-**User Authentication**: Secure login and registration system.
-**Trip Management**: Create, view, edit, and delete trips.
-**Itineraries**: Organize daily activities and plans for each trip.
-**Expense Tracking**: Keep a record of travel expenses and manage your travel budget.
-**Interactive Map**: Visualize travel destinations and itineraries on an interactive map.
-**Search and Filter**: Easily search and filter trips by date, destination, and more.
+**User Authentication**: Secure login and registration system.<br>
+**Trip Management**: Create, view, edit, and delete trips.<br>
+**Itineraries**: Organize daily activities and plans for each trip.<br>
+**Expense Tracking**: Keep a record of travel expenses and manage your travel budget.<br>
+**Interactive Map**: Visualize travel destinations and itineraries on an interactive map.<br>
+**Search and Filter**: Easily search and filter trips by date, destination, and more.<br>
 # Tech Stack
-**Backend**: Node.js with Express.js
+**Backend**: Node.js with Express.js<br>
 **Database**: PostgreSQL
-
+<br>
 # Installation
 Clone the repository:
 
